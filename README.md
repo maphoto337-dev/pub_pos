@@ -17,7 +17,7 @@ A simple PHP + MySQL starter POS for a pub that sells alcohol.
 
 ## Notes
 This is a starter prototype, not a hardened production deployment yet.
-For production, add:
+For production, im going to add:
 - CSRF protection
 - stronger validation
 - receipt printing integration
